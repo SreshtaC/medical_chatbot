@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+transformers
+torch
+sentence-transformers
+faiss-cpu
+pymongo
+pandas
+scikit-learn
+huggingface_hub
+accelerate
+bitsandbytes
